@@ -23,3 +23,4 @@
         @endforeach
     </table>
     <button onclick="location.href='/customers/zipcode'">新規作成</button>
+@endsection

@@ -20,3 +20,4 @@
         <input type="submit" value="検索">
     </form>
     <button onclick="location.href='{{ route('customers.index') }}'">一覧へ戻る</button>
+@endsection
